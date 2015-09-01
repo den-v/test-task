@@ -8,7 +8,7 @@ git clone https://github.com/den-v/test-task.git
 cd test-task
 php composer.phar global require "fxp/composer-asset-plugin:~1.0.0"
 php composer.phar update
-~~~
+
 
 Now you should be able to access the application through the following URL, assuming `basic` is the directory
 directly under the Web root.
@@ -44,3 +44,4 @@ CREATE TABLES AND LOAD DATA
 ---------------------------
 
 yii migrate
+
