@@ -1,0 +1,13 @@
+.img:hover{
+    cursor: pointer;
+}
+
+.small{
+    width: 116px;
+    height: 170px;
+}
+
+.big{
+    width: 200px;
+    height: 293px;
+}
